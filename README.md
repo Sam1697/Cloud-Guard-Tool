@@ -1,2 +1,1 @@
-# Anti-Breach-Tool
-Anti-Breach is an AI-powered cloud security audit platform that helps companies identify vulnerabilities, misconfigurations, and threat gaps before attackers do in minutes, not weeks.
+CloudGuard is a Python-based security auditing tool designed to identify, report, and provide remediation guidance for critical misconfigurations in cloud environments (Render).
